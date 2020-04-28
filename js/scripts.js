@@ -12,6 +12,7 @@ $(function() {
     }
   });
 
+  // Week 4 Assignment:
   $("#reserveButton").click(function(){
     $('#reserveModal').modal('show')
   });
