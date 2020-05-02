@@ -20,5 +20,6 @@ $(function() {
   $("#loginButton").click(function(){
     $('#loginModal').modal('show');
   });
+  // End week 4 Assignment
 
 });
